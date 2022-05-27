@@ -1,4 +1,7 @@
-# Dados_com_Python
+# ML e Deep Learning com python
 
-Exercícios de vídeos do YouTube.
-Projetos do PET|FACEPE|IFPE
+<ul>
+<li>Exercícios de vídeos do YouTube.</li>
+<li>Projetos do PET|FACEPE|IFPE.</li>
+</ul>
+
