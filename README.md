@@ -1,3 +1,4 @@
 # Dados_com_Python
 
-Exercícios do YouTube, python com pandas, matplotlib e numpy
+Exercícios de vídeos do YouTube.
+Projetos do PET|FACEPE|IFPE
